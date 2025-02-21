@@ -1,5 +1,4 @@
-
-    {"id": "AF", "label":"Afghanistan", "regionId": "APAC" },
+{"data"  = [{"id": "AF", "label":"Afghanistan", "regionId": "APAC" },
     {"id": "BD", "label":"Bangladesh", "regionId": "APAC" },
     {"id": "BT", "label":"Bhutan", "regionId": "APAC" },
     {"id": "IN", "label":"India", "regionId": "APAC" },
@@ -232,4 +231,4 @@
     {"id": "TO", "label":"Tonga", "regionId": "APAC" },
     {"id": "TV", "label":"Tuvalu", "regionId": "APAC" },
     {"id": "WF", "label":"Wallis and Futuna", "regionId": "APAC"}
-
+]}
